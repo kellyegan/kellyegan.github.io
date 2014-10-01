@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Kelly Egan
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Photography, design and media of artist Kelly Egan
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars0.githubusercontent.com/u/492003?v=2&s=460
 
 #
 # Flags below are optional
@@ -17,17 +17,13 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
-  email: 
-  facebook: 
   flickr: 
-  github: barryclark/jekyll-now
+  github: kellyegan
   instagram: 
   linkedin: 
   pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  rss: kellyegan# just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: kellyegan
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
@@ -37,7 +33,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: http://kellyegan.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
